@@ -20,7 +20,7 @@ for num  in range(1700, 80000):
 		subject = 'python email test'
 		smtpserver = 'smtp.qq.com'
 		username = '442078359@qq.com'
-		password = '258900'
+		password = '****'
 		msgRoot = MIMEMultipart('related')
 		msgRoot['Subject'] = 'just see see'
 		msgRoot['From']=sender 
